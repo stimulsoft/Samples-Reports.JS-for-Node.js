@@ -1,6 +1,6 @@
 ## STIMULSOFT DEVELOPER LICENSE AGREEMENT, ANNEX A - REDISTRIBUTABLES
 
-**Last Updated: 2026-06-16**
+**Last Updated: 2026-09-25**
 
 This Annex A forms part of the STIMULSOFT DEVELOPER LICENSE AGREEMENT (DLA) executed between CloudReports sp. z o.o. (dba Stimulsoft) and DEVELOPER. Capitalized terms used in this Annex have the meanings given to them in the DLA.
 
@@ -23,7 +23,6 @@ Stimulsoft.Dashboard.Viewer.dll
 Stimulsoft.Data.dll  
 Stimulsoft.Database.dll  
 Stimulsoft.Design.dll  
-Stimulsoft.Editor.dll  
 Stimulsoft.Map.dll  
 Stimulsoft.Report.dll  
 Stimulsoft.Report.Check.dll  
@@ -140,6 +139,29 @@ Stimulsoft.System.Web.dll
 All files in stimulsoft-viewer-react folder  
 All .xml localization files  
 
+**VUE**
+Stimulsoft.Base.dll  
+Stimulsoft.Blockly.dll  
+Stimulsoft.Dashboard.dll  
+Stimulsoft.Dashboard.Drawing.dll  
+Stimulsoft.Dashboard.Export.dll  
+Stimulsoft.Data.dll  
+Stimulsoft.Drawing.dll  
+Stimulsoft.Map.dll  
+Stimulsoft.Report.Mvc.dll  
+Stimulsoft.Report.dll  
+Stimulsoft.Report.Vue.dll  
+Stimulsoft.Report.Check.dll  
+Stimulsoft.Report.Helper.dll  
+Stimulsoft.Report.Mvc.NetCore.dll  
+Stimulsoft.Report.Web.dll  
+Stimulsoft.Report.WebDesign.dll  
+Stimulsoft.Svg.dll  
+Stimulsoft.System.dll  
+Stimulsoft.System.Web.dll  
+All files in stimulsoft-viewer-vue folder  
+All .xml localization files  
+
 **WPF**
 Stimulsoft.Base.dll  
 Stimulsoft.Blockly.dll  
@@ -235,7 +257,6 @@ Stimulsoft.Data.dll
 Stimulsoft.Database.dll  
 Stimulsoft.Map.dll  
 Stimulsoft.Design.dll  
-Stimulsoft.Editor.dll  
 Stimulsoft.Report.dll  
 Stimulsoft.Report.Check.dll  
 Stimulsoft.Report.Design.dll  
@@ -306,6 +327,29 @@ Stimulsoft.System.Web.dll
 All files in stimulsoft-viewer-react folder  
 All .xml localization files  
 
+### Stimulsoft Reports.VUE
+Stimulsoft.Base.dll  
+Stimulsoft.Blockly.dll  
+Stimulsoft.Dashboard.dll  
+Stimulsoft.Dashboard.Drawing.dll  
+Stimulsoft.Dashboard.Export.dll  
+Stimulsoft.Data.dll  
+Stimulsoft.Drawing.dll  
+Stimulsoft.Map.dll  
+Stimulsoft.Report.Mvc.dll  
+Stimulsoft.Report.dll  
+Stimulsoft.Report.Vue.dll  
+Stimulsoft.Report.Check.dll  
+Stimulsoft.Report.Helper.dll  
+Stimulsoft.Report.Mvc.NetCore.dll  
+Stimulsoft.Report.Web.dll  
+Stimulsoft.Report.WebDesign.dll  
+Stimulsoft.Svg.dll  
+Stimulsoft.System.dll  
+Stimulsoft.System.Web.dll  
+All files in stimulsoft-viewer-vue folder  
+All .xml localization files  
+
 ### Stimulsoft Reports.WPF
 Stimulsoft.Base.dll  
 Stimulsoft.Blockly.dll  
@@ -336,16 +380,6 @@ Stimulsoft.Report.Check.dll
 Stimulsoft.Report.Helper.dll  
 Stimulsoft.Report.Viewer.Avalonia.dll  
 Stimulsoft.System.dll  
-All .xml localization files  
-
-### Stimulsoft Reports.UWP
-Stimulsoft.Base.UWP.dll  
-Stimulsoft.Controls.UWP.dll  
-Stimulsoft.Helper.UWP.dll  
-Stimulsoft.ImageConverter.UWP.dll  
-Stimulsoft.Report.Design.UWP.dll  
-Stimulsoft.Report.UWP.dll  
-Stimulsoft.Report.Viewer.UWP.dll  
 All .xml localization files  
 
 ### Stimulsoft Reports.JS
@@ -408,7 +442,6 @@ Stimulsoft.Dashboard.Viewer.Wpf.dll
 Stimulsoft.Data.dll  
 Stimulsoft.Database.dll  
 Stimulsoft.Design.dll  
-Stimulsoft.Editor.dll  
 Stimulsoft.Map.dll  
 Stimulsoft.Report.dll  
 Stimulsoft.Report.Check.dll  

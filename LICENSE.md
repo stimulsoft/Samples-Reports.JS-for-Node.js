@@ -1,6 +1,6 @@
 ## STIMULSOFT REPORTS, STIMULSOFT DASHBOARDS, STIMULSOFT FORMS, STIMULSOFT SPREADSHEETS, STIMULSOFT APPS, STIMULSOFT DESIGNER, STIMULSOFT DEMO, DEVELOPER LICENSE AGREEMENT
 
-**Last Updated: 2026-09-11**
+**Last Updated: 2026-10-02**
 
 This CloudReports sp. z o.o. (dba Stimulsoft), ("STIMULSOFT") Developer License Agreement ("DLA") is a legal agreement between the software developer ("DEVELOPER") and STIMULSOFT for STIMULSOFT REPORTS, STIMULSOFT DASHBOARDS, STIMULSOFT FORMS, STIMULSOFT SPREADSHEETS, STIMULSOFT APPS, STIMULSOFT DESIGNER, and STIMULSOFT DEMO identified above and including components, source code (if provided), demos, intermediate files, media, printed materials, and online or electronic documentation ("SOFTWARE") contained in this installation file.
 
@@ -50,7 +50,7 @@ Where DEVELOPER's environment does not permit communication with the Stimulsoft 
 
 ## TRIAL VERSION
 Until DEVELOPER activates the SOFTWARE in accordance with the ACTIVATION Section, the SOFTWARE operates as a trial version under the following conditions:
-- the trial period is limited to thirty (30) days from the earlier of (i) the date of first installation of the SOFTWARE on any computer or (ii) the date on which DEVELOPER first registered a STIMULSOFT account at stimulsoft.com;
+- the trial period is limited to thirty (30) days from the earlier of (i) the date of first installation of the SOFTWARE on any computer or (ii) the date on which DEVELOPER first registered a STIMULSOFT account at www.stimulsoft.com;
 - DEVELOPER may use the trial version solely for the purpose of internal evaluation of the SOFTWARE prior to a purchasing decision, and not for any production, commercial, or revenue-generating use;
 - the trial version may include functional, temporal, or capacity limitations imposed by STIMULSOFT, and the absence of any limitation does not constitute a license to use the SOFTWARE beyond the scope described in this Section;
 - upon expiration of the trial period, DEVELOPER must either (i) purchase a valid license from STIMULSOFT and activate the SOFTWARE in accordance with the ACTIVATION Section, or (ii) cease all use of the SOFTWARE and uninstall it from all computers on which it has been installed; and
@@ -67,7 +67,7 @@ The license granted under this DLA is perpetual. Upon expiration of the Subscrip
 
 DEVELOPER may renew the Subscription at any time. STIMULSOFT may publish a grace period and renewal discount on its website. Renewal prices, grace-period terms, and any tier-upgrade pricing in effect at the time of renewal are available at STIMULSOFT's online store at https://www.stimulsoft.com/en/online-store.
 
-If DEVELOPER has enabled auto-renewal or has agreed to automatic renewal at the time of purchase, the Subscription will automatically renew for an additional twelve (12) month period at the then-current published price unless DEVELOPER cancels auto-renewal before the renewal date. DEVELOPER may cancel auto-renewal at any time through DEVELOPER's STIMULSOFT account or by written notice to STIMULSOFT at the email address set out in the footer of this DLA. Cancellation of auto-renewal does not affect the current Subscription period, which shall continue until its scheduled expiration. STIMULSOFT will provide renewal notification by email to the address associated with DEVELOPER's STIMULSOFT account not later than sixty (60) days prior to the renewal date where required by applicable law or where auto-renewal is enabled.
+If DEVELOPER has enabled auto-renewal or has agreed to automatic renewal at the time of purchase, the Subscription will automatically renew for an additional twelve (12) month period at the then-current published price unless DEVELOPER cancels auto-renewal before the renewal date. DEVELOPER may cancel auto-renewal at any time through DEVELOPER's STIMULSOFT account or by written notice to STIMULSOFT at the email address set out in the footer of this DLA. Cancellation of auto-renewal does not affect the current Subscription period, which shall continue until its scheduled expiration. STIMULSOFT will provide renewal notification by email to the address associated with DEVELOPER's STIMULSOFT account thirty (30) days prior to the renewal date where required by applicable law or where auto-renewal is enabled.
 
 Subscriptions are licensed on a per-developer basis according to the license tier selected by DEVELOPER (Single, Team, Enterprise, Worldwide, or such other tier as STIMULSOFT may offer from time to time). The license tier determines the maximum number of individual developers within DEVELOPER's organization authorized to use the SOFTWARE. DEVELOPER must ensure that the number of such individuals does not at any time exceed the licensed tier.
 
