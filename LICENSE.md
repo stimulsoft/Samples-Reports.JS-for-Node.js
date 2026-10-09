@@ -1,8 +1,8 @@
 ## STIMULSOFT REPORTS, STIMULSOFT DASHBOARDS, STIMULSOFT FORMS, STIMULSOFT SPREADSHEETS, STIMULSOFT APPS, STIMULSOFT DESIGNER, STIMULSOFT DEMO, DEVELOPER LICENSE AGREEMENT
 
-**Last Updated: 2026-10-02**
+**Last Updated: 2026-10-08**
 
-This CloudReports sp. z o.o. (dba Stimulsoft), ("STIMULSOFT") Developer License Agreement ("DLA") is a legal agreement between the software developer ("DEVELOPER") and STIMULSOFT for STIMULSOFT REPORTS, STIMULSOFT DASHBOARDS, STIMULSOFT FORMS, STIMULSOFT SPREADSHEETS, STIMULSOFT APPS, STIMULSOFT DESIGNER, and STIMULSOFT DEMO identified above and including components, source code (if provided), demos, intermediate files, media, printed materials, and online or electronic documentation ("SOFTWARE") contained in this installation file.
+This CloudReports sp. z o.o. (dba Stimulsoft) ("STIMULSOFT") Developer License Agreement ("DLA") is a legal agreement between the software developer ("DEVELOPER") and STIMULSOFT for STIMULSOFT REPORTS, STIMULSOFT DASHBOARDS, STIMULSOFT FORMS, STIMULSOFT SPREADSHEETS, STIMULSOFT APPS, STIMULSOFT DESIGNER, and STIMULSOFT DEMO identified above and including components, source code (if provided), demos, intermediate files, media, printed materials, and online or electronic documentation ("SOFTWARE") contained in this installation file.
 
 STIMULSOFT grants DEVELOPER a personal, non-exclusive license to install and use the SOFTWARE for the sole purposes of designing, developing, testing, and deploying application programs which DEVELOPER creates. If DEVELOPER is an entity, DEVELOPER may permit access to and use of the SOFTWARE by its individual developers (as defined in the SUBSCRIPTION Section) and by authorized account administrators, subject to the limits of the licensed tier and to DEVELOPER's responsibility for their compliance with this DLA.
 
@@ -46,7 +46,7 @@ SOFTWARE is delivered as an installation package. Until activation, SOFTWARE ope
 
 If DEVELOPER wants to transfer the installation to another computer, DEVELOPER should deactivate the current installation and then activate the SOFTWARE on the new computer.
 
-Where DEVELOPER's environment does not permit communication with the Stimulsoft Activation Server (for example, in air-gapped, isolated, or restricted-network environments), offline activation may be available by request. DEVELOPER may contact STIMULSOFT at the email address set out in the footer of this DLA to request offline activation procedures.
+Where DEVELOPER's environment does not permit communication with the Stimulsoft Activation Server (for example, in air-gapped, isolated, or restricted-network environments), offline activation may be available by request. DEVELOPER may contact STIMULSOFT at the email address set out in the NOTICES Section below to request offline activation procedures.
 
 ## TRIAL VERSION
 Until DEVELOPER activates the SOFTWARE in accordance with the ACTIVATION Section, the SOFTWARE operates as a trial version under the following conditions:
@@ -67,7 +67,7 @@ The license granted under this DLA is perpetual. Upon expiration of the Subscrip
 
 DEVELOPER may renew the Subscription at any time. STIMULSOFT may publish a grace period and renewal discount on its website. Renewal prices, grace-period terms, and any tier-upgrade pricing in effect at the time of renewal are available at STIMULSOFT's online store at https://www.stimulsoft.com/en/online-store.
 
-If DEVELOPER has enabled auto-renewal or has agreed to automatic renewal at the time of purchase, the Subscription will automatically renew for an additional twelve (12) month period at the then-current published price unless DEVELOPER cancels auto-renewal before the renewal date. DEVELOPER may cancel auto-renewal at any time through DEVELOPER's STIMULSOFT account or by written notice to STIMULSOFT at the email address set out in the footer of this DLA. Cancellation of auto-renewal does not affect the current Subscription period, which shall continue until its scheduled expiration. STIMULSOFT will provide renewal notification by email to the address associated with DEVELOPER's STIMULSOFT account thirty (30) days prior to the renewal date where required by applicable law or where auto-renewal is enabled.
+If DEVELOPER has enabled auto-renewal or has agreed to automatic renewal at the time of purchase, the Subscription will automatically renew for an additional twelve (12) month period at the then-current published price unless DEVELOPER cancels auto-renewal before the renewal date. DEVELOPER may cancel auto-renewal at any time through DEVELOPER's STIMULSOFT account or by written notice to STIMULSOFT at the email address set out in the NOTICES Section below. Cancellation of auto-renewal does not affect the current Subscription period, which shall continue until its scheduled expiration. STIMULSOFT will provide renewal notification by email to the address associated with DEVELOPER's STIMULSOFT account thirty (30) days prior to the renewal date where required by applicable law or where auto-renewal is enabled.
 
 Subscriptions are licensed on a per-developer basis according to the license tier selected by DEVELOPER (Single, Team, Enterprise, Worldwide, or such other tier as STIMULSOFT may offer from time to time). The license tier determines the maximum number of individual developers within DEVELOPER's organization authorized to use the SOFTWARE. DEVELOPER must ensure that the number of such individuals does not at any time exceed the licensed tier.
 
@@ -163,7 +163,7 @@ For the purposes of this Section:
 - "Output" means any text, code, suggestion, or other information generated by the AI Features in response to an Input.
 - "Suggestion" means any source code, expression, or other text suggested by the AI Features for DEVELOPER to accept, modify, or reject.
 
-When DEVELOPER uses the AI Features, the Input is transmitted to STIMULSOFT or to STIMULSOFT's AI subcontractors for processing and to generate an Output. STIMULSOFT may add or replace AI subcontractors from time to time. Where AI subcontractors process personal data, they are engaged subject to appropriate contractual data-protection obligations. A current list of STIMULSOFT's AI subcontractors is available to DEVELOPER upon request, free of charge, by contacting STIMULSOFT at the email address set out in the footer of this DLA.
+When DEVELOPER uses the AI Features, the Input is transmitted to STIMULSOFT or to STIMULSOFT's AI subcontractors for processing and to generate an Output. STIMULSOFT may add or replace AI subcontractors from time to time. Where AI subcontractors process personal data, they are engaged subject to appropriate contractual data-protection obligations. A current list of STIMULSOFT's AI subcontractors is available to DEVELOPER upon request, free of charge, by contacting STIMULSOFT at the email address set out in the NOTICES Section below.
 
 STIMULSOFT undertakes that it will not use Inputs, Outputs, or Suggestions to train any language models, machine-learning models, or artificial-intelligence systems, unless DEVELOPER expressly agrees to such use.
 
@@ -178,7 +178,7 @@ Due to the nature of artificial-intelligence systems, Outputs or Suggestions may
 DEVELOPER must not use the AI Features in any manner that violates this DLA, applicable law (including data protection, intellectual property, and content regulation laws), or the rights of any third party.
 
 ## COPYRIGHT
-All title and copyrights in and to the SOFTWARE (including but not limited to any images, demos, source code (if provided), intermediate files, packages, photographs, distributables, animations, video, audio, music, text, and applets incorporated into the SOFTWARE and any copies of the SOFTWARE) are owned by STIMULSOFT or its affiliates. The SOFTWARE is protected by copyright laws and international treaty provisions. Therefore, DEVELOPER must treat the SOFTWARE like any other copyrighted material except that DEVELOPER may install the SOFTWARE on a single computer provided DEVELOPER keeps the original solely for backup or archival purposes.
+All title and copyrights in and to the SOFTWARE (including but not limited to any images, demos, source code (if provided), intermediate files, packages, photographs, distributables, animations, video, audio, music, text, and applets incorporated into the SOFTWARE and any copies of the SOFTWARE) are owned by STIMULSOFT or its affiliates. The SOFTWARE is protected by copyright laws and international treaty provisions. Therefore, DEVELOPER must treat the SOFTWARE like any other copyrighted material except that DEVELOPER may install the SOFTWARE as permitted under the RIGHTS and SUBSCRIPTION Sections and may keep one copy solely for backup or archival purposes.
 
 ## THIRD PARTY
 The SOFTWARE contains third-party software which is subject to additional notices and terms and conditions. Such required third-party software notices and additional terms and conditions are located at [THIRD-PARTY.md](THIRD-PARTY.md) (the "Third-Party Licenses") and are incorporated by reference into this DLA. DEVELOPER acknowledges and agrees that certain third-party software which is not incorporated into the SOFTWARE may be required in order for DEVELOPER to use or enjoy the full benefit of the SOFTWARE. DEVELOPER shall be fully responsible for obtaining a lawful copy of such software. DEVELOPER's use of such separately acquired third-party software shall be in accordance with any terms and conditions of the license agreement provided with such software.
@@ -200,7 +200,13 @@ Without prejudice to any other rights or remedies, STIMULSOFT may terminate this
 
 For any other breach capable of cure, STIMULSOFT may give DEVELOPER written notice describing the breach and a reasonable period of not less than fourteen (14) days to cure it. If DEVELOPER fails to cure the breach within that period, STIMULSOFT may terminate this DLA.
 
+If a breach of this DLA, including use beyond the limits set out in the RIGHTS and SUBSCRIPTION Sections, remains uncured after the cure period described above, STIMULSOFT may suspend the license keys, activation credentials, and access to activation services associated with the affected license until the breach is cured. Suspension may apply to all installations and activations under that license. STIMULSOFT will notify DEVELOPER in writing of the suspension and its reasons no later than at the time of suspension and will lift it without undue delay once the breach is cured, including by bringing use within the licensed limits, purchasing additional licenses, or upgrading to an appropriate license tier. Suspension applies only to Design-Time Use and does not affect lawful Runtime Use by end users of DEVELOPER's Applications distributed or deployed before the suspension. Suspension does not terminate this DLA and does not limit STIMULSOFT's right to terminate it under this Section or to exercise any other rights or remedies.
+
+If DEVELOPER commits a breach of the same kind within twelve (12) months after receiving a notice under this Section, STIMULSOFT may suspend the affected license as described above or terminate this DLA immediately, without a further cure period.
+
 Upon termination, DEVELOPER must immediately cease all use of the SOFTWARE, uninstall the SOFTWARE, destroy all copies of the SOFTWARE and related documentation in DEVELOPER's possession or control, remove Redistributables from any future distributions, and, upon STIMULSOFT's request, certify such destruction in writing. STIMULSOFT may disable license keys, activation credentials, or access to activation services associated with the terminated license.
+
+Termination or suspension for DEVELOPER's breach does not entitle DEVELOPER to a refund of any fees paid for the affected license or its associated Subscription, except where required by applicable mandatory law.
 
 DEVELOPER must not distribute any new copies, updates, patches, or versions containing the SOFTWARE or Redistributables after termination.
 
@@ -216,9 +222,9 @@ STIMULSOFT's total aggregate liability arising out of or in connection with this
 
 (i) the greater of:
 (a) the aggregate amount actually paid by DEVELOPER to STIMULSOFT under this DLA during the twelve (12) months immediately preceding the event giving rise to the claim; and
-(b) ten euro (EUR 10) for DEVELOPERS domiciled or established in the European Union or the European Economic Area, or ten US dollars (USD 10) for DEVELOPERS domiciled or established in any other jurisdiction; and
+(b) ten euros (EUR 10) for DEVELOPERS domiciled or established in the European Union or the European Economic Area, or ten US dollars (USD 10) for DEVELOPERS domiciled or established in any other jurisdiction; and
 
-(ii) one thousand euro (EUR 1,000) for DEVELOPERS domiciled or established in the European Union or the European Economic Area, or one thousand US dollars (USD 1,000) for DEVELOPERS domiciled or established in any other jurisdiction.
+(ii) one thousand euros (EUR 1,000) for DEVELOPERS domiciled or established in the European Union or the European Economic Area, or one thousand US dollars (USD 1,000) for DEVELOPERS domiciled or established in any other jurisdiction.
 
 This limitation will apply notwithstanding any failure of the essential purpose of any limited remedy.
 
@@ -271,13 +277,13 @@ Personal data may be disclosed to STIMULSOFT's professional advisors (accountant
 STIMULSOFT retains the personal data described above for the duration of the license and for such further period as is necessary to comply with applicable tax, accounting, and statute-of-limitation requirements under Polish and European Union law.
 
 
-Individuals whose personal data is processed by STIMULSOFT under this DLA have the rights of access, rectification, erasure, restriction of processing, data portability, and objection under Articles 15 to 22 of the GDPR, and the right to lodge a complaint with a supervisory authority (in Poland, the President of the Personal Data Protection Office). Requests may be submitted to STIMULSOFT at the email address set out in the footer of this DLA.
+Individuals whose personal data is processed by STIMULSOFT under this DLA have the rights of access, rectification, erasure, restriction of processing, data portability, and objection under Articles 15 to 22 of the GDPR, and the right to lodge a complaint with a supervisory authority (in Poland, the President of the Personal Data Protection Office). Requests may be submitted to STIMULSOFT at the email address set out in the NOTICES Section below.
 
 ## ACCOUNT SECURITY
 
 DEVELOPER is responsible for maintaining the confidentiality of DEVELOPER's STIMULSOFT account credentials, including username, password, license key, activation credentials, and any authentication tokens or codes. DEVELOPER is responsible for all activities that occur in or through DEVELOPER's account, whether or not authorized by DEVELOPER.
 
-DEVELOPER must notify STIMULSOFT immediately by email at the address set out in the footer of this DLA upon becoming aware of any unauthorized access to or use of DEVELOPER's account, any compromise of DEVELOPER's credentials, or any other breach of security relating to DEVELOPER's account.
+DEVELOPER must notify STIMULSOFT immediately by email at the address set out in the NOTICES Section below upon becoming aware of any unauthorized access to or use of DEVELOPER's account, any compromise of DEVELOPER's credentials, or any other breach of security relating to DEVELOPER's account.
 
 STIMULSOFT is not responsible for any loss or damage to DEVELOPER or to any third party incurred as a result of any unauthorized access to or use of DEVELOPER's account, except to the extent directly caused by STIMULSOFT's breach of this DLA or applicable mandatory law.
 
@@ -286,7 +292,7 @@ DEVELOPER must comply with all applicable laws and regulations regarding economi
 
 DEVELOPER represents and warrants that DEVELOPER is not a person or entity targeted by Sanctions, nor is DEVELOPER owned or controlled by, or acting on behalf of, any person or entity targeted by Sanctions.
 
-DEVELOPER must immediately report any concerns of non-compliance regarding Sanctions to STIMULSOFT at the email address set out in the footer of this DLA.
+DEVELOPER must immediately report any concerns of non-compliance regarding Sanctions to STIMULSOFT at the email address set out in the NOTICES Section below.
 
 ## U.S. GOVERNMENT END USERS
 The SOFTWARE and the related documentation are "commercial items" as that term is defined at 48 C.F.R. 2.101, consisting of "commercial computer software" and "commercial computer software documentation" as such terms are used in 48 C.F.R. 12.212 and 48 C.F.R. 227.7202.
@@ -338,7 +344,7 @@ STIMULSOFT will send notices to DEVELOPER by email to the address associated wit
 ## CONSUMER RIGHTS
 For DEVELOPERS who are consumers within the meaning of applicable consumer-protection law in the European Union or the European Economic Area, the following applies in addition to the other provisions of this DLA.
 
-Right of withdrawal. Where DEVELOPER is a consumer within the meaning of applicable consumer-protection law in the European Union or the European Economic Area and acts outside DEVELOPER's trade, business, craft, or profession, DEVELOPER may have a statutory fourteen (14)-day right of withdrawal from the conclusion of a distance contract, subject to the conditions, limitations, and exceptions set out in applicable consumer-protection law. This right applies only to DEVELOPERS who are consumers and do not apply to DEVELOPERS acting for purposes relating to their trade, business, craft, or profession.
+Right of withdrawal. Where DEVELOPER is a consumer within the meaning of applicable consumer-protection law in the European Union or the European Economic Area and acts outside DEVELOPER's trade, business, craft, or profession, DEVELOPER may have a statutory fourteen (14)-day right of withdrawal from the conclusion of a distance contract, subject to the conditions, limitations, and exceptions set out in applicable consumer-protection law. This right applies only to DEVELOPERS who are consumers and does not apply to DEVELOPERS acting for purposes relating to their trade, business, craft, or profession.
 
 Mandatory consumer rights. Nothing in this DLA limits or excludes any rights that DEVELOPER may have as a consumer under applicable mandatory consumer-protection law, including (in Poland) the rights set out in the Polish Act on Consumer and the Polish Civil Code. The limitations and exclusions of liability set out in this DLA apply to consumers only to the extent permitted by such mandatory law.
 

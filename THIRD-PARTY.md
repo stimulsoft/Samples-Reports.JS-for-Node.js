@@ -1,6 +1,6 @@
 ## Stimulsoft Third-Party Software Notices
 
-**Last Updated: 2026-09-29**
+**Last Updated: 2026-10-09**
 
 This document contains licensing information relating to the use of third-party software with or within the Stimulsoft software (Stimulsoft is a trademark of CloudReports sp. z o.o.). Any terms, conditions, or restrictions on third-party software included within the Stimulsoft software that are not included within the original third-party software licenses are offered and imposed by Stimulsoft alone. The authors, licensors, and distributors of the third-party software disclaim all express or implied conditions, representations, and warranties relating to the third-party software and any liability arising from use and distribution of the third-party software.
 
@@ -38,6 +38,25 @@ dTree 2.05
 Copyright (c) 2002-2003 Geir Landrö
 
 This script can be used freely as long as all copyright messages are intact.
+
+---
+
+### ExcelDataReader
+ExcelDataReader is a library for reading Microsoft Excel files. Portions of the ExcelDataReader source code are included in Stimulsoft.Base and used by the Excel data source.
+
+**Platforms:** .NET
+
+https://github.com/ExcelDataReader/ExcelDataReader
+
+**The MIT License**
+Copyright (c) 2008 EXCELDATAREADER
+Copyright (c) 2014 ExcelDataReader
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
@@ -91,15 +110,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
----
-
-### LibExcel
-This assembly is used to access the Excel files. It is applicable in the Excel Connection in the report designer. Stimulsoft software does not use this software directly and uses reflection to access it. If you are not going to use the Excel data source you may not use LibExcel.dll.
-
-**Platforms:** .NET
-
-**GNU Lesser General Public License**
 
 ---
 
